@@ -1,0 +1,76 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* background: #e7717d; */
+    /* background: #005ddb; */
+    font-size: 1.5rem;
+background: #f46b45;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #eea849, #f46b45);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #eea849, #f46b45); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    color: white
+
+
+/* color: white */
+
+}
+.carousel-item {
+  height: 65vh;
+  min-height: 100px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+
+.my-4 {
+  color: red;
+  text-align: center;
+}
+
+.emojis, tr, caption {
+  color: #fff;
+}
+.caption p {
+  color: white
+}
+
+  .row p {
+   margin-top: 15px
+ }
+
+ .wolf {
+   margin-top: 2rem;
+ }
+
+ button {
+   font-size: 5rem
+ }
+ 
+ .player {
+   padding-top: 4rem;
+   text-align: center;
+ }
+
+ .contact {
+   margin-top: 3rem !important;
+ }
+
+
+
+
+
+
+
